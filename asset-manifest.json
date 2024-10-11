@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/roxilerassign/static/css/main.0feb8581.css",
+    "main.js": "/roxilerassign/static/js/main.36da511c.js",
+    "index.html": "/roxilerassign/index.html",
+    "main.0feb8581.css.map": "/roxilerassign/static/css/main.0feb8581.css.map",
+    "main.36da511c.js.map": "/roxilerassign/static/js/main.36da511c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0feb8581.css",
+    "static/js/main.36da511c.js"
+  ]
+}
